@@ -1,5 +1,7 @@
 # Personale: employee records, job descriptions and pay history for a personnel office
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23398766.svg)](https://doi.org/10.5281/zenodo.23398766)
+
 *Anagrafica del personale, mansionario e storico retributivo per l'ufficio del personale*
 
 **db** · 2002–2004 · version 1.0  
@@ -41,9 +43,9 @@ The database is published **empty**: every table has been emptied, the file comp
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*).
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23398766](https://doi.org/10.5281/zenodo.23398766).
 
-> Sbarbaro, Massimo. 2004. *Personale: employee records, job descriptions and pay history for a personnel office*. Software (db, 2002–2004), version 1.0. GitHub. https://github.com/massimosbarbaro/personnel-office-db.
+> Sbarbaro, Massimo. 2004. *Personale: employee records, job descriptions and pay history for a personnel office*. Software (db, 2002–2004), version 1.0. Zenodo. https://doi.org/10.5281/zenodo.23398766.
 
 ## License
 
