@@ -1,0 +1,4 @@
+SELECT Storico.[CODICE FISCALE], Count(Storico.[CODICE FISCALE]) AS [ConteggioDiCODICE FISCALE]
+FROM Storico
+GROUP BY Storico.[CODICE FISCALE]
+HAVING (((Count(Storico.[CODICE FISCALE]))>1));

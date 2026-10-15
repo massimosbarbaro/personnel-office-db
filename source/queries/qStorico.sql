@@ -1,0 +1,2 @@
+SELECT ficha11.COGNOME, ficha11.NOME, Storico.[CODICE FISCALE], Storico.[COD#C#D#COSTO (4 NUMERI ES#0600)], CentroCosto.DESCRI, Storico.[CODICE LIVELLO], CodLivello.DESCRI, Storico.[DESCR#MANSIONE], Storico.[ECC#CON#AN], Storico.Data
+FROM CentroCosto RIGHT JOIN ((CodLivello RIGHT JOIN Storico ON CodLivello.CODICE = Storico.[CODICE LIVELLO]) INNER JOIN ficha11 ON Storico.[CODICE FISCALE] = ficha11.[CODICE FISCALE]) ON CentroCosto.CODICE = Storico.[COD#C#D#COSTO (4 NUMERI ES#0600)];

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Personale: employee records, job descriptions and pay history for a personnel office (db, 2002–2004)"
+version: "1.0"
+abstract: "Personale supports the personnel office of a manufacturing company. Employee and worker records are imported from the payroll system and enriched with job description, cost centre, level, contract, category, department, education and union; the application keeps the history of levels, cost centres and pay elements (base pay, cost-of-living allowance, individual supplements, seniority increments, bonuses, severance-pay accrual) and of social-security contributions, and prints general and individual reports."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+date-released: "2004-05-26"
+repository-code: "https://github.com/massimosbarbaro/personnel-office-access"
+keywords:
+  - "Microsoft Access"
+  - "human resources"
+  - "personnel administration"
+  - "payroll history"
+  - "manufacturing"
+  - "legacy software"
