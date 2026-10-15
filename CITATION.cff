@@ -10,9 +10,9 @@ authors:
     orcid: "https://orcid.org/0009-0006-8965-9013"
 license: MIT
 date-released: "2004-05-26"
-repository-code: "https://github.com/massimosbarbaro/personnel-office-access"
+repository-code: "https://github.com/massimosbarbaro/personnel-office-db"
 keywords:
-  - "Microsoft Access"
+  - "db"
   - "human resources"
   - "personnel administration"
   - "payroll history"

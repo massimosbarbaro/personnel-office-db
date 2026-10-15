@@ -25,25 +25,25 @@ I designed and programmed this application in 2002–2004. It is published here 
 
 ## Technology
 
-Microsoft Access 97 format (.mdb), forms, reports and VBA module `mArchivio`.
+db, 97 format (.mdb), forms, reports and VBA module `mArchivio`.
 
 ## Repository contents
 
 | Path | Content |
 |---|---|
-| `database/` | The Access application, emptied of all data. |
+| `database/` | The database application, emptied of all data. |
 | `source/queries/` | SQL of the saved queries. |
 | `docs/schema.md` | Tables and fields. |
 
 ## What is not included
 
-The database is published **empty**: every table has been emptied, the file compacted and the unused space inside its pages overwritten with zeros, so no record of the original data survives. Logos of the organisations for which the program was built have been blanked inside the forms, and the names of organisations, people and places in captions and code have been replaced with neutral text of the same length; the application is otherwise the original file. The file is in Microsoft Access 97 format: it opens in Access 97–2010; later versions of Access must first convert it with an intermediate version.
+The database is published **empty**: every table has been emptied, the file compacted and the unused space inside its pages overwritten with zeros, so no record of the original data survives. Logos of the organisations for which the program was built have been blanked inside the forms, and the names of organisations, people and places in captions and code have been replaced with neutral text of the same length; the application is otherwise the original file. The file is in the 1997 db format: it opens with the 1997–2010 versions of the database software; later versions must first convert it with an intermediate version.
 
 ## How to cite
 
 Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*).
 
-> Sbarbaro, Massimo. 2004. *Personale: employee records, job descriptions and pay history for a personnel office*. Software (db, 2002–2004), version 1.0. GitHub. https://github.com/massimosbarbaro/personnel-office-access.
+> Sbarbaro, Massimo. 2004. *Personale: employee records, job descriptions and pay history for a personnel office*. Software (db, 2002–2004), version 1.0. GitHub. https://github.com/massimosbarbaro/personnel-office-db.
 
 ## License
 
